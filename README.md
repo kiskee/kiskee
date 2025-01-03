@@ -25,12 +25,14 @@ I'm a passionate developer with experience in a variety of languages and tools. 
 - **HTML & CSS**
 - **PHP**
 - **Python**
+- **Solidity**
 
 ### Frameworks and Libraries:
 - **Node.js**
 - **React**
 - **Express.js**
 - **Serverless Framework**
+- **Remix**
 
 ### Tools and Platforms:
 - **AWS** (Amazon Web Services)
