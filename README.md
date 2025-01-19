@@ -57,6 +57,7 @@ I'm a passionate developer with experience in a variety of languages and tools. 
 
 Here you can add some of the projects you've worked on. If you don’t have projects on your profile yet, you can use this section to describe interesting project ideas you’d like to develop in the future.
 
+- [SVG-SWIM](https://www.svgswim.top) - SVG SWiM is a full platform for learning how to teach swim
 - [Crypto Dashboard](https://eth-land.vercel.app) - This is a Crypto Dashboard
 - [[Event Driven](https://github.com/kiskee/node-ses-service-aws)] - Event Driven project with serverless integration.
 - [Fundacion Yarumal Verdolaga](https://www.fundacionyarumalverdolaga.org) - This is the frontend application for Fundación Yarumal Verdolaga.
