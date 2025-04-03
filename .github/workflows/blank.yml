@@ -1,0 +1,10 @@
+name: First Action
+on: workflow_dispatch
+jobs: 
+  job-one:
+    runs-on: ubutu-latest
+    steps:
+      - name: print greeting
+        run: echo ""Hello There!
+      - name: Print goodbye
+        run: echo "done Bye!"
